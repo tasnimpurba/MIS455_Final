@@ -1,0 +1,22 @@
+.body{
+   background-color:cadetblue;
+height: 100%;
+width: 100%;
+}
+.title-style{
+
+    font-weight: 900;
+    font-size: 18px;
+    background-color: bisque;
+   
+
+}
+
+.img-style{
+   width: 250px;
+}
+
+#container{
+   display: grid;
+   grid-template-columns: repeat(4, 1fr);
+}
